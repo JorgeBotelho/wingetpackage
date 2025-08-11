@@ -1,5 +1,4 @@
 [
-  "Google.Chrome",
-  "Notepad++.Notepad++"
-
+  { "Id": "Google.Chrome", "Scope": "machine" },
+  { "Id": "Notepad++.Notepad++", "Scope": "machine" }
 ]
