@@ -1,6 +1,7 @@
 [
-  { "Id": "Google.Chrome" },
-  { "Id": "Notepad++.Notepad++" }
+  "Google.Chrome",
+  "7zip.7zip",
+  "Notepad++.Notepad++",
+  "TheDocumentFoundation.LibreOffice"
+  
 ]
-
-
